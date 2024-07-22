@@ -1,25 +1,8 @@
 # Shopping Admin Panel with Laravel & Livewire with API
 
-## Menu
-
-- [Overview](#overview)
-- [Application](#application-📱)
-- [Tech Stack](#tech-stack-📚)
-- [Installation Steps](#installation-steps)
-- [Laravel Installation](#laravel-installation)
-- [Features](#features)
-- [Table of Features](#table-of-features)
-- [Test](#run-test)
-- [Postman Collection](#postman-collection)
 ## Overview
 
 This project involves creating a robust admin panel to manage an e-commerce platform. It utilizes **Laravel** for the backend structure and **Livewire** for dynamic frontend interactions. The panel also offers a comprehensive **API** for scalability and flexibility.
-
-## Give a Star ! ⭐
-If you find this project useful or if you're using it to learn or start your solution, please consider giving it a star. Thank you!
-
-## Application 📱
-[This](https://github.com/razaghimahdi/Shopping-By-KMP) is a cross-platform application that is built using Jetpack Compose Multiplatform, a declarative framework for sharing UIs across multiple platforms with Kotlin. The application allows users to browse, search, and purchase products from a shopping catalog on Android, iOS.
 
 ### Tech Stack 📚
 - Kotlin Multiplatform
@@ -65,35 +48,9 @@ If you find this project useful or if you're using it to learn or start your sol
     php artisan migrate --seed
     ```
 
-### Features
+### Screenshots
+![Screenshot 2024-07-22 094420](https://github.com/user-attachments/assets/ed97d5ce-0162-4d40-9776-418e3f2bb82a)
+![Screenshot 2024-07-22 094049](https://github.com/user-attachments/assets/beb8bbd0-9ff4-40b2-b231-b7a9596e05da)
+![Screenshot 2024-07-22 092738](https://github.com/user-attachments/assets/8ea2e3dc-b1a1-4427-85ac-e1806e7a456e)
+![Screenshot 2024-07-22 092640](https://github.com/user-attachments/assets/978db080-b2b2-4d99-b866-f35adb5614d2)
 
-- **Admin Dashboard:** Manage products, categories, orders, and customers seamlessly.
-- **Laravel & Livewire:** Leverage the power of Laravel's backend with Livewire for reactive UI.
-- **Full API:** Enables external integrations and interactions with the shopping platform.
-
-## Table of Features
-
-| Features         | Admin panel | API App | API admin |
-| ---------------- | ----------- | ------- | --------- |
-| Dashboard        | 🔜 Coming Soon | ✔️ Yes     | 🔜 Coming Soon |
-| Search        | ❌ No | ✔️ Done     | ❌ No |
-| Users            | ✔️ Done      | ❌ No    | 🔜 Coming Soon |
-| Users Address            | 🔜 Coming Soon      | ✔️ Yes    | ❌ No |
-| Categories       | ✔️ Done      | ❌ No    | 🔜 Coming Soon |
-| Products         | ✔️ Done |  ✔️ Yes   | 🔜 Coming Soon   | 
-| Orders           | -      | -   | - |
-| Profile          | _      | ✔️ Done | -
-
-
-## Run test
-```
-php artisan test
-```
-
-## Postman Collection
-
-[View Postman Collection](https://documenter.getpostman.com/view/20769678/2s9Ye8fuf5) also you cat downaload json config file [Download](https://github.com/soheilkhaledabdi/shop/blob/main/assets/Shoping.postman_collection.json)
-
-Feel free to contribute and improve this project!
-
-Create by Ayden Gill
